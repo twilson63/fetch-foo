@@ -16,6 +16,7 @@
     "svelte": "^2.13.1"
   },
   "dependencies": {
-    "navaid": "^1.0.0"
+    "navaid": "^1.0.0",
+    "tachyons": "^4.11.1"
   }
 }

@@ -1,3 +1,4 @@
+import 'tachyons'
 import navaid from 'navaid'
 import callback from './lib/callback'
 
