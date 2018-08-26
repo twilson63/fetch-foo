@@ -23,7 +23,11 @@ Each challenge is listed in the source challenges folder, the challenge will be 
 
 ## Getting Started
 
+clone repo
+
 open repo in text editor go to the `src/challenges` folder and choose your challenge.
+
+In the challenge, you will remove the `Promise.resolve` with a `fetch` following the instructions of the challenge.
 
 ## Running the examples
 
@@ -37,3 +41,18 @@ Open your browser at https://localhost:1234
 Use the menu to navigate to your challenge validation page.
 
 Code the challenge and test the results
+
+## Contributing
+
+- Found a bug, fix it with a pull request
+- Have a cool api to add as a challenge, submit a pull request
+
+see [CONTRIBUTING](CONTRIBUTING.md)
+
+## Thank you
+
+- Svelte Community - https://svelte.technology/
+- Rich Harris - https://github.com/Rich-Harris
+- Lukeed - https://github.com/lukeed/navaid
+- NodeJS Community - https://nodejs.org/en/
+- JavaScript Community
