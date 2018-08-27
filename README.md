@@ -2,6 +2,8 @@
 
 Fetch Foo is a set of exercises focused on getting practice calling restful services using the fetch function. `fetch` is provided in most browsers and with legacy browsers it can be added via a pollyfill.
 
+> Fetch provides an interface for fetching resources accross a network: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+
 Some api services that we will be using will require some sort of authentication token in order to access its endpoints.
 
 In the readme and each test page there will be instructions on how to get the authentication code to make api calls to the service.
