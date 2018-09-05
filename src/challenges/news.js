@@ -10,4 +10,10 @@
  */
 const apikey = 'your api key here'
 export default () =>
+  /**
+   * Promise.resolve is just a placeholder
+   *
+   * You will want to replace this line with your answer
+   */
+
   Promise.resolve({ status: 'error', message: 'Not Implemented!' })

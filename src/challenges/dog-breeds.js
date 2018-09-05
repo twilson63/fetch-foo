@@ -7,4 +7,10 @@
  *
  * The url is 'https://dog.ceo/api/breeds/list/all'
  */
-export default () => Promise.resolve({ message: { todo: 'get breeds' } })
+export default () =>
+  /**
+   * Promise.resolve is just a placeholder
+   *
+   * You will want to replace this line with your answer
+   */
+  Promise.resolve({ message: { todo: 'get breeds' } })

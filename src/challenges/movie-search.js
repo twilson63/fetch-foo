@@ -16,4 +16,10 @@
 
 const apikey = '[Add your key here]'
 export default q =>
+  /**
+   * Promise.resolve is just a placeholder
+   *
+   * You will want to replace this line with your answer
+   */
+
   Promise.resolve({ Search: [{ Title: 'TODO: No Movie Found' }] })

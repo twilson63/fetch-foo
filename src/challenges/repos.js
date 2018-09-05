@@ -11,4 +11,10 @@
  *
  */
 export default token =>
+  /**
+   * Promise.resolve is just a placeholder
+   *
+   * You will want to replace this line with your answer
+   */
+
   Promise.resolve([{ name: 'No List', html_url: 'http://example.com' }])
